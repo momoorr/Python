@@ -159,3 +159,21 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+### 에러 해결1
+
+#Module Not Found … pygame
+# 현재 내 컴에 pygame이라는 라이브러리가 없다. —> 설치해주면 된다.
+#import pygame
+
+### Q1
+
+#import란? 
+#라이브러리를 결합해주면 명령
+
+### Q2
+
+#라이브러리란?
+#Library : 도서관 —> 도서관에 뭐가 있죠?: 책들이 있죠.
